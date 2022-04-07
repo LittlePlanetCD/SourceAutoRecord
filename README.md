@@ -27,3 +27,10 @@ Game|Windows|Linux
 - [Issues & Troubleshooting](doc/issue.md)
 - [Mapping](doc/mapping.md)
 - [Console Commands & Variables](doc/cvars.md)
+
+## Inspired by
+
+  SourceDemoRender
+  SourcePauseTool
+  SourceSplit
+  cstrike-basehook-linux
